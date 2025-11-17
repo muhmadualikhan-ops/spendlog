@@ -30,4 +30,5 @@ class SampleExpense {
 }
 
 const List<SampleExpense> sampleExpenses = <SampleExpense>[
+  SampleExpense(title: "Milk and bread", categoryId: "groceries", amountMinor: 84000, month: 1, day: 1, note: "Imtiaz"),
 ];
