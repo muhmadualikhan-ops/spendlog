@@ -395,4 +395,5 @@ const List<SampleExpense> sampleExpenses = <SampleExpense>[
   SampleExpense(title: "Jazz load", categoryId: "bills", amountMinor: 31500, month: 3, day: 12, note: "Mobile"),
   SampleExpense(title: "K-Electric bill", categoryId: "bills", amountMinor: 643000, month: 4, day: 13, note: "Home"),
   SampleExpense(title: "Internet bill", categoryId: "bills", amountMinor: 254500, month: 5, day: 14, note: "Monthly"),
+  SampleExpense(title: "Gas bill", categoryId: "bills", amountMinor: 186000, month: 6, day: 15, note: "Home"),
 ];
