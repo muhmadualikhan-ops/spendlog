@@ -9,3 +9,4 @@
 - 2026-11-20 11:03 — Adjust the mobile spacing
 - 2026-11-24 11:49 — Review the latest screen changes
 - 2026-11-24 16:55 — Fix a small layout overlap
+- 2026-11-25 09:37 — Update the status labels
