@@ -10,3 +10,4 @@
 - 2026-11-24 11:49 — Review the latest screen changes
 - 2026-11-24 16:55 — Fix a small layout overlap
 - 2026-11-25 09:37 — Update the status labels
+- 2026-11-25 11:36 — Refine the main screen copy
