@@ -12,3 +12,4 @@
 - 2026-11-25 09:37 — Update the status labels
 - 2026-11-25 11:36 — Refine the main screen copy
 - 2026-11-26 09:28 — Improve loading state copy
+- 2026-11-26 15:42 — Record a follow-up in the notes
